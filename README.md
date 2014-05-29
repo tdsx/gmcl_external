@@ -24,4 +24,5 @@ Usage
 **AN IMPORTANT THING TO NOTE IS THAT YOU SHOULD NOT HAVE BACKSLASHES IN THE PATHS. You could probably escape the backslashes, but it's a lot more easier to just use forwardslashes.** You should also NOT have any periods in the directory (besides the period preceding the lua extension).
 
 C:\whatever\IDK\weiner.lua = no bueno
+
 C:/whatever/IDK/weiner.lua = bueno, use it like this.
